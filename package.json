@@ -1,0 +1,15 @@
+{
+  "id": "phenixscans",
+  "name": "PhenixScans",
+  "version": "1.0.0",
+  "icon": "extension-icon.png",
+  "entrypoint": "PhenixScans.js",
+  "website": "https://phenix-scans.com",
+  "description": "Extension non‑officielle pour lire les chapitres PhenixScans directement dans Paperback.",
+  "language": "fr",
+  "tags": [
+    "manga",
+    "scantrad",
+    "français"
+  ]
+}
