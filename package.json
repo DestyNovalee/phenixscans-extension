@@ -1,9 +1,11 @@
 {
+  "id": "phenixscans",
   "name": "PhenixScans",
   "version": "1.0.0",
   "icon": "extension-icon.png",
   "entrypoint": "PhenixScansSource.ts",
   "website": "https://phenixscans.fr",
   "description": "Extension non-officielle pour lire depuis PhenixScans.",
+  "language": "fr",
   "tags": ["manga", "français", "scantrad"]
 }
